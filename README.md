@@ -5,7 +5,7 @@ ada beberapa alamat tutorial bootstrap :
 2.https://mdbootstrap.com/
 3.https://www.tutorialspoint.com/bootstrap/
 
-#  
+# mulai manual git 
 setelah perubahan di source code. ada beberapa eksekusi di git aplikasi nya.
 git init
 git add .
@@ -13,3 +13,4 @@ git commit -m "komentar apa saja"
 git status
 git push
 git pull adalah perintah menarik halaman online ke offline(ke komputer)
+# selesai
