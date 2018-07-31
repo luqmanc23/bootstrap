@@ -12,3 +12,4 @@ git add .
 git commit -m "komentar apa saja"
 git status
 git push
+git pull adalah perintah menarik halaman online ke offline(ke komputer)
